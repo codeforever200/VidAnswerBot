@@ -34,7 +34,3 @@ VidSummarizeBot is an interactive web application that combines video summarizat
 1. Clone the repository.
 2. Install the required dependencies.
 3. Run the application using Streamlit.
-
-```bash
-pip install -r requirements.txt
-streamlit run vidsummarizebot.py
