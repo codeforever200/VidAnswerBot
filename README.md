@@ -2,8 +2,9 @@
 
 VidSummarizeBot is an interactive web application that combines video summarization, automatic transcription, and a conversational chatbot. This project allows you to extract valuable insights and information from YouTube videos and engage in dynamic conversations about the content.
 
-![image](https://github.com/codeforever200/SummarizeChatVision/assets/57805586/92306902-841b-402d-9bda-c4319fbf5da6)
-![image](https://github.com/codeforever200/SummarizeChatVision/assets/57805586/85daf9e9-1245-4b24-b11d-94a36e7c85a0)
+![Screenshot 2023-12-15 222906](https://github.com/codeforever200/SummarizeChatVision/assets/57805586/d408ac56-cf0d-4c9a-862a-b9998b9b69c7)
+![Screenshot 2023-12-15 223100](https://github.com/codeforever200/SummarizeChatVision/assets/57805586/6aac4d0a-4fa3-4196-8d3e-032454be2353)
+![Screenshot 2023-12-16 000147](https://github.com/codeforever200/SummarizeChatVision/assets/57805586/0ae3804e-22bb-4fa9-a463-eb30e01fa473)
 
 
 ## Key Features
